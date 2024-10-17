@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BasketCounter</string>
+    <string name="basket_counter">Basket Counter</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="submit">Submit</string>
+    <string name="reset">RESET</string>
+
+    <plurals name="point_count">
+        <item quantity="one">%d point</item>
+        <item quantity="other">%d points</item>
+    </plurals>
+
+    <string name="score_format">Score: %d</string>
+    <string name="_1">+1</string>
+    <string name="_2">+2</string>
+</resources>
